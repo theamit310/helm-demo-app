@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  Samlpe-Helm-ArgoCD:
+  - apiVersion: v2
+    created: "2025-01-07T16:28:59.936089+05:30"
+    description: A sample Helm chart for testing ArgoCD integration
+    digest: 6c6bce866b5f02ca08b3866112197920b462c11f35ce93044c3ff5bf4da82398
+    name: Samlpe-Helm-ArgoCD
+    urls:
+    - Samlpe-Helm-ArgoCD-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-07T16:28:59.929457+05:30"
