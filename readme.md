@@ -20,3 +20,10 @@ Installing ArgoCD in minikube
 
 ################################################################
 # create a sample helm chart in your git , 
+1. helm create my-sample-app
+2. modify chart.yml and values.yml according to needs.
+3. Do Dry run using : helm template <<chart-name>>
+##############################################################
+# helm create my-sample-app
+1. cmd : helm package my-sample-app
+2. if mulitple apps : helm repo index .
