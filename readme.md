@@ -1,5 +1,5 @@
 # this is a demo helm chart to integrate with ArgoCD
--->>> we are using Minikube cluser to deploy the ArgoCD.
+This Project uses Minikube cluser to deploy the ArgoCD.
 # Steps to install and configure :
 
 1. Install ACD on k8s cluster.
