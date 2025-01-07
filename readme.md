@@ -18,5 +18,5 @@ Installing ArgoCD in minikube
     1. Username : admin
     2. Pass : decode base 64 from k8s secret pass.
 
-##################
+################################################################
 # create a sample helm chart in your git , 
